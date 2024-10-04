@@ -48,6 +48,7 @@
 
 - **Version Control**: A system that records changes to a set of files over time, allowing you to track modifications, collaborate, and revert changes when needed.
 - **Git**: A widely-used version control system that enables developers to manage source code history and collaborate effectively.
+- **Git Commands**: Basic git commands like clone, fetch, push, pull, add and more were covered
 
 ### Practical Sessions:
-- Hands-on practice with basic Linux commands and version control using Git.
+- Hands-on practice was done with basic Linux commands and version control using Git.
