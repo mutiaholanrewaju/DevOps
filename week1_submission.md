@@ -12,6 +12,9 @@ This is the repo for the devOps journey
 **Mutiah’s Branch**
 ![alt text](images/image-1.png)
 
+**Git commit process**
+![alt text](images/console_mutiah.png)
+
 **Commit History**
 ![alt text](images/image-3.png)
 
@@ -21,9 +24,9 @@ This is the repo for the devOps journey
 - [Pull request 2](https://github.com/mutiaholanrewaju/DevOps/pull/2)
 - [Pull request 3](https://github.com/mutiaholanrewaju/DevOps/pull/3)
 
-![alt text](images/WhatsApp Image 2024-10-04 at 12.04.33_d12d812a.jpg)
+![alt text](images/image-4.jpg)
 
-![alt text](images/WhatsApp Image 2024-10-04 at 19.32.50_0daf5b16.jpg)
+![alt text](images/image-5.jpg)
 
 **Final REPO link** - https://github.com/mutiaholanrewaju/DevOps
 
