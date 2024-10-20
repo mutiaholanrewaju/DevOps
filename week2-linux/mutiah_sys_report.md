@@ -3,4 +3,5 @@ This script generates a comprehensive system report including disk space usage, 
 [The script:](./system-report.sh)
 
 ## The screenshot of the report sent to slack using cronjob
-[The system report:](./my_sys_report.png)
+
+![alt text](./my_sys_report.png)
