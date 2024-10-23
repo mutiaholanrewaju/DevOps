@@ -8,16 +8,16 @@ Jenkins was installed locally and accessed via port `8080`. A **Freestyle Projec
 ### Project Configuration
 The freestyle project was configured to pull the To-do application code from a GitHub repository. Below are the screenshots that show the job configuration steps:
 
-![Job Configuration - Step 1](../jenkins-assignment/images/job%20configuration1.png)
+![Job Configuration - Step 1](../week4_ci_cd_jenkins/images/job%20configuration1.png)
 
-![Job Configuration - Step 2](../jenkins-assignment/images/job%20configuration2.png)
+![Job Configuration - Step 2](../week4_ci_cd_jenkins/images/job%20configuration2.png)
 
 ### Build Process
 After configuring the job, Jenkins successfully built the project, as indicated in the screenshot below:
 
-![Successful Build](../jenkins-assignment/images/successful%20build.png)
+![Successful Build](../week4_ci_cd_jenkins/images/successful%20build.png)
 
-You can view the full console output of the [successful build here](../jenkins-assignment/build%20console%20output.txt).
+You can view the full console output of the [successful build here](../week4_ci_cd_jenkins/build%20console%20output.txt).
 
 
 
