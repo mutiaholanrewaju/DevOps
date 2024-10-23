@@ -7,7 +7,7 @@ This is the repo for the devOps journey
 - **Forked Repo** - https://github.com/Elizzy01/DevOps
 
 **Lizzy’s Branch**
-![alt text](images/image-2.png) 
+![alt text](../images/image-2.png) 
 
 **Mutiah’s Branch**
 ![alt text](../images/image-1.png)
