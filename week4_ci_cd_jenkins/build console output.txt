@@ -1,0 +1,23 @@
+Started by user Mutiat Olanrewaju
+Running as SYSTEM
+Building in workspace C:\Users\mutia\AppData\Local\Jenkins\.jenkins\workspace\Build To-do App
+The recommended git tool is: NONE
+No credentials specified
+ > git.exe rev-parse --resolve-git-dir C:\Users\mutia\AppData\Local\Jenkins\.jenkins\workspace\Build To-do App\.git # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/mutiaholanrewaju/deploy-todo-app.git # timeout=10
+Fetching upstream changes from https://github.com/mutiaholanrewaju/deploy-todo-app.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.40.0.windows.1'
+ > git.exe fetch --tags --force --progress -- https://github.com/mutiaholanrewaju/deploy-todo-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision ffb438375f8ec879ca9b1187794c8f686c4428a4 (refs/remotes/origin/main)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f ffb438375f8ec879ca9b1187794c8f686c4428a4 # timeout=10
+Commit message: "Update style.css"
+ > git.exe rev-list --no-walk ffb438375f8ec879ca9b1187794c8f686c4428a4 # timeout=10
+[Build To-do App] $ sh -xe C:\Users\mutia\AppData\Local\Temp\jenkins17412150608231378738.sh
++ echo 'Todo App has started building'
+Todo App has started building
+Archiving artifacts
+Finished: SUCCESS
