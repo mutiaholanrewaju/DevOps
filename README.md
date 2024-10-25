@@ -60,7 +60,7 @@ Built a JavaScript To-do application using Jenkins CI/CD pipeline from a GitHub 
 
 **Key Skills:**
 - Docker image management
-- CI/CD with Jenkins
+- CI/CD with Github Action and Jenkins
 - Automating deployment pipelines
 
 ---
