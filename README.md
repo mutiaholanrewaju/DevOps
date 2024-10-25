@@ -38,10 +38,10 @@ Automate a system report using a Bash script. The script generates a report on s
 Explored cloud computing, focusing on Google Cloud Platform (GCP). I gained hands-on experience launching and managing virtual machines, cloud storage, and setting up security groups and firewalls.
 
 **Project:**  
-Completed the [Google Cloud Fundamentals: Core Infrastructure](#) course, learning about GCP's key services, including computing and storage resources.
+Completed the [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/course_templates/60?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=37678355) course, learning about GCP's key services, including computing and storage resources.
 
-**Badge:**  
-[https://www.cloudskillsboost.google/public_profiles/e0174e49-0820-4721-a1ac-1476cac622e4/badges/12281020](#)
+**Badge:** 
+[Link to Google Cloud Fundamentals Badge](https://www.cloudskillsboost.google/public_profiles/e0174e49-0820-4721-a1ac-1476cac622e4/badges/12281020)
 
 **Key Skills:**
 - Cloud computing concepts
